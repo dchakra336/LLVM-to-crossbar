@@ -1,0 +1,3 @@
+llvm_compute.c : define compute function here
+ir_to_bdd : processes LLVM IR and outputs vector of equivalent BDDs, in format readable by crossbar synthesis tool
+llvm_xbar.sh : shell script for I/O pipelining
